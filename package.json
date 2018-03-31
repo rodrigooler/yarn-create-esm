@@ -1,0 +1,13 @@
+{
+  "name": "yarn-create-esm",
+  "version": "0.1.0",
+  "description": "ES Modules fast config and zero-dependency for Node 6+!",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigooler/yarn-create-esm.git",
+  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "esm": "^3.0.14"
+  }
+}
